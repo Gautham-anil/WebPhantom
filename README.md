@@ -15,16 +15,5 @@ pip install -r requirements.txt
 
 
 🛠 Usage
+'''bash
 python3 aiwebscanner.py
-
-
-
-Commands:
-
-    scan <url> → Scan target
-
-    show <url> → Show results
-
-    ai help → Get AI-based suggestions
-
-    exit → Quit the tool
