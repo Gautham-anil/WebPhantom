@@ -12,3 +12,19 @@ AI-powered Web Scanner for Recon &amp; Vulnerability Detection
 git clone https://github.com/Gautham-anil/WebPhantom.git
 cd WebPhantom
 pip install -r requirements.txt
+
+
+🛠 Usage
+python3 aiwebscanner.py
+
+
+
+Commands:
+
+    scan <url> → Scan target
+
+    show <url> → Show results
+
+    ai help → Get AI-based suggestions
+
+    exit → Quit the tool
