@@ -14,6 +14,5 @@ cd WebPhantom
 pip install -r requirements.txt
 
 
-🛠 Usage
-'''bash
+## 🛠 Usage
 python3 aiwebscanner.py
