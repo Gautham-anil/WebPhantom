@@ -38,7 +38,7 @@ Ensure you have Python 3.10+ installed.
 
 Start the Phantom Neural Core:
 ```bash
-python3 aiwebscanner.py
+python3 Ai-Phantom.py
 ```
 
 ### Core Commands:
