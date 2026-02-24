@@ -1,1 +1,7 @@
-pip install -r requirements.txt
+requests
+beautifulsoup4
+rich
+prompt_toolkit
+playwright
+pillow
+urllib3
