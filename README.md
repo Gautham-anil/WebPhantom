@@ -1,7 +1,5 @@
 # 🦾 AI-Phantom Security Suite v4.0
 
-![AI-Phantom Banner](logo.png)
-
 **AI-Phantom** is a high-end, autonomous security research and penetration testing suite designed for the modern era. Developed by **Gautham.A** and **Abhijith.S**, it leverages advanced **Recursive Cognitive Reasoning** and **Hyper-Active Neural Fuzzing** to discover, exploit, and report vulnerabilities with human-like intelligence.
 
 ## 🚀 Key Features
